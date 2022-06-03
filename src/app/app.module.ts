@@ -3,7 +3,7 @@ import { BrowserModule } from '@angular/platform-browser';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
-import {MdBootstrapModule} from "../md-bootstrap/material.module";
+import {MdBootstrapModule} from "../md-bootstrap/md-bootstrap.module";
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 
 @NgModule({
